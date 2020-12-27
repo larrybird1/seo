@@ -1,0 +1,56 @@
+#gallery-3col-5 .bg-wrap {
+    background-color: #f4f5f6;
+}
+#chart-center-chart .bg-wrap {
+    background-color: #f4f5f6;
+}#sep-bottom-5--0 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #blog-2col--0 .bg-wrap {
+    background-color: #F4F5F6;
+}
+#header-text-8 .bg {
+    background-image: url('../images/bg-82.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}#sep-bottom-2 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}#panel-login .bg-wrap {
+    background-color: rgba(255,255,255,0.95);
+}
+#contact-form-2 .bg {
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 1;
+    background-image: url(../images/bg-11.jpg);
+}
+#text-2col .bg {
+    background-image: url('../images/bg-sign.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
+#benefits-4col-7--0 .bg-wrap {
+    background-color: #F4F5F6;
+}
+
+
+#benefits-4col-7--0 .bg {
+    background-image: url('../images/bg-pattern-3.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 50px 50px;
+    opacity:0.075;
+}
+#sep-bottom-5 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}     #cookie-text-btn-2 .bg {
+    opacity: 0.5;
+    background-size: 200px auto;
+    background-repeat: Repeat;
+    background-image: url(../images/bg-pattern-1-primary.png);
+}
+#blog-2col .bg-wrap {
+    background-color: #F4F5F6;
+}
